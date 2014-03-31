@@ -1,0 +1,23 @@
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes.dex : \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/BuildConfig.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/R$attr.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/R$drawable.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/R$string.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/R$xml.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/R.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/com/production/ymc/YoungMomClub.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/vadimrud/YMCv0.2/ymc.02/platforms/android/ant-build/dexedLibs/classes-a3eeba6f703edb2a15fa6f8bd6dcce6d.jar \

@@ -1,0 +1,13 @@
+{
+    "index": {
+        "promo_text" : "Хуйня якась",
+        "button_registration1" : "Ригістрацийо",
+        "button_enter" : "Вхід"
+    },
+    
+    "registation1" : {
+        "top_back_button" : "Взад",
+        "header_text" : "Ригістрацийо"
+    }
+
+}

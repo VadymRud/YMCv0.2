@@ -1,0 +1,54 @@
+{
+    "index": {
+        "promoText" : "Делитесь личным опытом и обменивайтесь сообщениями с друзьями и близкими",
+        "buttonRegistration1" : "Регистрация",
+        "buttonEenter" : "Вход"
+    },
+    
+    "_comment" : "first registation page",
+    "registation1" : {
+        "topBackButton" : "Назад",
+        "headerText" : "Регистрация",
+        "text":"Введите email или номер телефона",
+        "tel" : "Номер телефона",
+        "email" : "Email",
+        "name" : "Введите имя",
+        "pass" : "Введите пароль",
+        "button_next" : "Далее"
+    },
+    
+    "_comment" : "second registation page",
+    "registation2" : {
+        
+        
+        "text":"В целях безопасности, мы вышлем на Ваш мобильный или email код для подтверждения регистрации",
+        "tel" : "Введите email или номер телефона",
+        "codeButton" : "Получить код",
+        "enterCode" : "Введите код"
+    },
+    
+    "_comment" : "status page",
+    "status" : {
+        
+        
+        "headerText":"Ваш статус",
+        "radioPregnant" : "Я беременна",
+        "termPregnancy" : "Срок беременности:",
+        "weeks" : "Недель",
+        "days" : "Дней",
+        "radioPlanning" : "Я планирую рождение",
+        "buttonSkip" : "Пропустить"
+    },
+    
+    "_comment" : "add child page",
+    "addChild" : {
+
+        "children":"Дети",
+        "myChildren" : "Мои дети:",
+        "buttonAddChild" : "Добавить ребенка",
+        "weeks" : "Недель",
+        "days" : "Дней",
+        "radioPlanning" : "Я планирую рождение",
+        "buttonMiss" : "Пропустить"
+    }
+}
